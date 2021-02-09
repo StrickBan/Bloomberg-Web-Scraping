@@ -1,2 +1,2 @@
 # Bloomberg-Web-Scraping
-Code to web scrape data from Bloomberg's Billionaires list
+Code to web scrape data from [Bloomberg's Billionaires list](https://www.bloomberg.com/billionaires/)
